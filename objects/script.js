@@ -1,7 +1,7 @@
 /* Car Proprties 
-    Make, Model, Year, Weight, Colour.
-
-    * Actions associted with a car ~ Accelerate, Stop, Honk, Turn)
+*   Make, Model, Year, Weight, Colour.
+*
+*   Actions associted with a car ~ Accelerate, Stop, Honk, Turn)
 */
 
 var car = {
